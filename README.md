@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hi, I'm Aden! <br/><a href="https://, <a 
 
-<!--
-**Aaduub/Aaduub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cyber Security Projects:</h2>
 
-Here are some ideas to get you started:
+[Brief Introduction]
+I've recently graduated and I am now ecstatic to start my journey in Cyber security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##Objective
+[Provide Objective]
+
+My family have always encouraged me to try new things, so I am aiming for the stars, specifically to join a company as an entry-level cyber security analyst.
+
+##skills
